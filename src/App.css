@@ -1,0 +1,144 @@
+.Toolbar{
+
+       background-color:pink;
+       padding: 10px;
+       padding-right: 18px;
+       display: flex;
+       position: relative;
+       width: 100%;
+       justify-content: center;
+}
+
+.imgset{
+
+    width: 50%;
+}
+.text{
+
+      width: 100%;
+}
+.text h1{
+
+    text-align: center;
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0px;
+}
+
+.textimg{
+
+        width: 60%;
+        height: 300px;
+        margin-left: 280px;
+        
+}
+.text-center{
+       position: absolute;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+     }
+.text-center p{
+
+       color:black;
+       margin-left:30px;
+}
+.homeimg{
+
+    width:100%;
+    height:550px;
+    margin-left: 0px;
+    display: flex;
+}
+.img1{
+  vertical-align: middle;
+  max-width: 50%;
+  height: 310px;
+  padding: 20px;
+}
+.img2{
+  vertical-align: middle;
+  max-width: 50%;
+  height: 290px;
+  padding: 20px;
+
+}
+.row-1 {
+   background-color: grey;
+   display: flex;
+   justify-content: center;
+   flex-direction: row;
+}
+.container-1{
+       text-align: center;
+       padding: 20px;
+       background-color: lightskyblue;
+       margin: 10px;
+}
+
+.footer{
+
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightpink;
+    padding: 30px;
+}
+.footer-bottom{
+       background-color: black;
+       color: white;
+       text-align: center;
+       padding: 10px;
+       
+}
+.icon{
+
+       width: 20px;
+       height: 20px;
+       margin: 5px;
+}
+
+
+.textbar{
+  align-items: center;
+  margin-left:70% ;
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.textbar-1{
+
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.social{
+
+      background-color: grey;
+      cursor: pointer;
+}
+
+.row-01, .row-02{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.container-2{
+      text-align: center;
+      padding: 40px;
+      margin: 40px;
+      width: 50%;
+}
+.package h1,{
+
+       background-color: grey;
+       padding: 10px;
+}
+
+.logo{
+
+      width: 55px;
+      height: 55px;
+      padding-right: 35%;
+}
+.body{
+
+      overflow-x: hidden;
+}
