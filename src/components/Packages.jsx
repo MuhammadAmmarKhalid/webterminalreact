@@ -23,15 +23,7 @@ export default function packages() {
   return (
        <div className="package" style={{marginTop:"10%"}}>
               <h1>Shirts & Pents</h1>
-              <Box component="fieldset" mb={3} borderColor="transparent">
-        <Rating
-          name="simple-controlled"
-          value={value}
-          onChange={(event, newValue) => {
-            setValue(newValue);
-          }}
-        />
-        </Box>
+        
 
         <div className="row-01">
              <div className="container-2">
